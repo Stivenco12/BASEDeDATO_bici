@@ -2,7 +2,7 @@
 
 ``` sql
 
-CREATE DATABASE bicicletass
+CREATE DATABASE bicicletass;
 
 use bicicletass;
 
